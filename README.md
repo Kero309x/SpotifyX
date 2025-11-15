@@ -1,4 +1,4 @@
-# SpotifyEx
+# SpotifyX
 
 An Xposed module that improves the Spotify experience.
 
